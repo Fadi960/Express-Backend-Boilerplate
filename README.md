@@ -43,7 +43,6 @@ backend-boilerplate/
 │   ├── app.js                # Express app setup
 │   └── server.js             # Server launcher
 ├── .env                      # Environment variables
-├── knexfile.js               # (Optional) Knex config for CLI
 ├── package.json              # Dependencies & scripts
 └── README.md                 # ← You are here
 
